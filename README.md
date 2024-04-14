@@ -1,2 +1,3 @@
 # Sheriff-Github-Notes-
-print("hello")
+#include <iostream>
+name space std; 
